@@ -5,7 +5,6 @@ import PageContent from './pageContent.jsx'
 const Section1 = () => {
   return (
     <div className='h-screen w-full'>
-      Section1
       <Navbar/>
       <PageContent/>
     </div>

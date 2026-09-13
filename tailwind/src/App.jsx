@@ -1,4 +1,5 @@
 import Section1 from './Components/Section1/Section1.jsx'
+import 'remixicon/fonts/remixicon.css'
 import Section2 from './Components/Section2/Section2.jsx'
 
 import React from 'react'
