@@ -4,6 +4,9 @@ import Section2 from './Components/Section2/Section2.jsx'
 
 import React from 'react'
 
+
+
+
 const App = () => {
   return (
     <div>
