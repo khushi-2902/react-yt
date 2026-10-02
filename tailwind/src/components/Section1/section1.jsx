@@ -2,11 +2,13 @@ import React from 'react'
 import Navbar from './navbar.jsx'
 import PageContent from './pageContent.jsx'
 
-const Section1 = () => {
+const Section1 = (props) => {
   return (
+  
     <div className='h-screen w-full'>
       <Navbar/>
-      <PageContent/>
+      <PageContent users={props.users}/>
+     
     </div>
   )
 }
