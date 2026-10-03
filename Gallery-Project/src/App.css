@@ -29,3 +29,14 @@ body {
 .gallery-img:hover {
   transform: scale(1.05);
 }
+
+.btn{
+
+    background-color:rgb(0, 255, 213);
+     
+}
+
+button:disabled {
+  opacity: 1.6;
+ 
+}
